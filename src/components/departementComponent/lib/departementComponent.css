@@ -1,0 +1,13 @@
+.primary,
+.primary:hover {
+    /** avoid using !important, added just for example**/
+    background-color: red !important;
+}
+
+.as-console-wrapper {
+    display: none !important;
+}
+
+.top{
+    margin-top: 20px;
+}

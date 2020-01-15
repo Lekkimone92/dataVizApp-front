@@ -1,0 +1,16 @@
+
+#map{
+    position: relative;
+    border: 1px dashed #996;
+    background-color: #ffc;
+    z-index: 1;
+    height:800px;
+    width: 100%
+}
+
+#nb_gare{
+    position: absolute;
+    z-index: 2;
+    height: 100px;
+    left: 50px;
+}
